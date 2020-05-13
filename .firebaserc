@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-cd589": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-cd589"
+        ]
+      }
+    }
+  }
+}
